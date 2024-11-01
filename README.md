@@ -26,7 +26,7 @@ The data analysis tools used for the project are
 2.  SQL Server:
     -  SQL Queries for Exploratory Analysis.
 3.  Microsoft Power Bi
-   -  For Visualization and Report
+    -  For Visualization and Report
 
 ## Data Cleaning and Preparations
 ---
