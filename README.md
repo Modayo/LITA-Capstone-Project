@@ -61,11 +61,11 @@ Select Region,Sum(Quantity) as Regional_Total_Sales from [dbo].[LITA Capstone Sa
 Group by Region
 
 ```
-![SALES DATA REPORT DASHBOARD 2](https://github.com/user-attachments/assets/07e4595a-3b4a-4d20-88b9-46f0d3a0c59c)
+![SALES DATA REPORT DASHBOARD 2](https://github.com/user-attachments/assets/deaa63ea-066a-47e0-a9ac-5aa6626d0adc)
 
+![Sales Data Dashboard Cards and Chart](https://github.com/user-attachments/assets/a2f66e7a-a5ad-4850-854f-e556c1808009)
 
-
-![SALES DATA REPORT DASHBOARD 1](https://github.com/user-attachments/assets/934bd90f-3a63-467b-a213-671868ce5d92)
+)
 ![SALES DATA REPORT REVENUE TRENDS (INTERACTIVE)](https://github.com/user-attachments/assets/e1a2b64f-2d61-4cf7-9def-c4bc101e66f4)!
 [SALES DATA REVENUE TRENDS DASHBOARD](https://github.com/user-attachments/assets/6b3d10cd-d336-4367-8ec9-5fbd3928bfc1)
 
